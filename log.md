@@ -57,3 +57,44 @@ return spltarr
 }
 
 Links to Work: https://www.codewars.com/kata/515de9ae9dcfc28eb6000001/train/javascript
+
+Day 4: Feb 6, 2022
+snoozed lol. sry
+
+Day 5: Feb 7, 2022
+
+Today's Progress:
+Shortest Word (7kyu)
+Simple, given a string of words, return the length of the shortest word(s).
+
+String will never be empty and you do not need to account for different data types.
+
+Sum of Minimums!(7kyu)
+
+Given a 2D ( nested ) list ( array, vector, .. ) of size m \* n, your task is to find the sum of the minimum values in each row.
+
+Thoughts:
+.sort is a very powerful method to order an array from least to greatest, making grabbing the smallest value in a set an easy process.
+
+Solutions:
+
+# Shortest Word
+
+def shortest_word(s): # your lovely code here!
+res = s.split()
+res.sort(key=len)
+return len(res[0])
+
+# Sum of Minimums
+
+def sum_of_minimums(list): # your lovely code goes here!
+mins = 0
+for arr in list:
+arr.sort()
+mins += arr[0]
+
+    return mins
+
+Links to Work:
+https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9
+https://www.codewars.com/kata/5d5ee4c35162d9001af7d699
