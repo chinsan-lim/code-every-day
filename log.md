@@ -98,3 +98,41 @@ mins += arr[0]
 Links to Work:
 https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9
 https://www.codewars.com/kata/5d5ee4c35162d9001af7d699
+
+Day 6: Feb 8, 2022
+
+Today's Progress:
+Remove First and Last Character
+Your goal is to create a function that removes the first and last characters of a string. You're given one parameter, the original string.
+
+Find GCD
+Find the greatest common divisor of two positive integers. The integers can be large, so you need to find a clever solution.
+Thoughts:
+
+Remove First and Last Char
+def remove_char(s):
+return s[1:-1]
+
+Find GCD
+def mygcd(x, y):
+xfactor = []
+yfactor = []
+for i in range(1, x + 1):
+if x % i == 0:
+xfactor.append(i)
+for j in range(1, y + 1):
+if y % j == 0:
+yfactor.append(j)
+
+    def intersection(lst1, lst2):
+        common_factors = [value for value in lst1 if value in lst2]
+        return common_factors
+    print(max(intersection(xfactor, yfactor)))
+
+This solution worked locally, but unfortunately not on Codewars. Gonna need to play some code golf to refactor solution to improve time complexities
+
+Links to Work:
+Remove First and Last Characters
+https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0
+Find the Greatest Common Divisor (GCD)
+https://www.codewars.com/kata/5500d54c2ebe0a8e8a0003fd
