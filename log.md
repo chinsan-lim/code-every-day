@@ -111,6 +111,7 @@ Thoughts:
 
 Remove First and Last Char
 def remove_char(s):
+
 return s[1:-1]
 
 Find GCD
@@ -136,3 +137,22 @@ Remove First and Last Characters
 https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0
 Find the Greatest Common Divisor (GCD)
 https://www.codewars.com/kata/5500d54c2ebe0a8e8a0003fd
+
+Day 6: Feb 9, 2022
+
+Today's Progress:
+
+Scaffolded out full stack app for Army PT Test tracker. Backend is up and running and deployed and my partner built out the front end form. Added images to portfolio, links to header, and updated hobbies/passions
+
+Thoughts:
+
+Feel much better about Django today and happy that deployment went smoothly. Still need to connect from and backend, so need to double check endpoints to ensure that cadet list and cadest details displays properly.
+
+Links to Work:
+GH
+
+Day 7: Feb 10, 2022
+
+Today's Progress:
+Thoughts:
+Links to Work:
