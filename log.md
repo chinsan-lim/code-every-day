@@ -151,8 +151,72 @@ Feel much better about Django today and happy that deployment went smoothly. Sti
 Links to Work:
 GH
 
-Day 7: Feb 10, 2022
+Days 7-15: Feb 10-18, 2022
 
 Today's Progress:
+Built out backend on Django
+
+- created models and seeded data on Django admin panel
+
+20% through Angular course on Udemy
+
+- began writing Typescript code
+- created an Angular app
+- created components through CLI and in IDE
+- used HTTP request to pull from our heroku database
+- property/event binding to pass variables was very rocky, so transitioned back over to React
+
+Built out React app in 2 days
+
+- styled using Material UI, Bootstrap, Animate.css
+- user authentication is functional, components will display conditionally when user is logged in
+- user curated data is sent to the database and stored to the API
+- all components are linked and traverses through the site
+- error checks are complete, need to add a demo user button and auto refresh page when drinks/comments are added
+
 Thoughts:
-Links to Work:
+Hardest week of the course -- creating a Django backend took us about a day and then dove headfirst into learning Angular. With a base in React, we felt that this was a tangible goal and we were able to build out a mostly function app where we could pull and display data from the API. Our largest hurdles began when we were trying to pass data between components and implement user authorization. We decided to pivot back to React with 2 days left for our project, so we would be able to present a full fledged functional project. Angular was a good challenge and hopefully will return to it with my group mates in the future.
+
+Day 16-18: Feb 19-21, 2022
+
+Snoozed! Mental reset.
+
+Day 19: Feb 22, 2022
+
+Today's Progress:
+Game plan for next couple weeks
+Watched through Big O notation section on Udemy
+6kyu: Your goal in this kata is to implement a difference function, which subtracts one list from another and returns the result.
+
+Solution: function arrayDiff(a, b) {
+return a.filter(ael => !b.includes(ael))
+}
+
+a bit of code golf refactoring to utilize filter and includes array methods
+
+Thoughts:
+Good refresher on Big O. Review of what we learned in class
+
+Links to Work: https://www.codewars.com/kata/523f5d21c841566fde000009/train/javascript
+
+####################################################################################
+TO DOS
+For BYOB:
+Demo user button
+Auto refresh after adding drink/comment
+
+Priorities:
+
+Create Github introduction banner
+Code Challenges (everyday 45 minutes)
+Data structures and algorithms (udemy - everyday 90 minutes)
+Answer Rapid Fire Interview Questions (everyday 45 minutes)
+Job applications (5x a week)
+Post on LinkedIn (1x a week)
+
+Refactor Project 1 with React (check with instructor feedback)
+Refactor Project 2 with cleaner CSS and implement game GOATs (check with instructor feedback)
+Refactor Project 3 with Django backend with user auth and cleaner CSS (check with instructor feedback)
+
+Passion Projects - Army PT app, NBA props calculator
+AWS Certification
