@@ -199,6 +199,21 @@ Good refresher on Big O. Review of what we learned in class
 
 Links to Work: https://www.codewars.com/kata/523f5d21c841566fde000009/train/javascript
 
+Day 20-22: Feb 23-25, 2022
+
+Today's Progress: Created React app to move VanillaJS Blackjack application. Scaffolded out the scoreboard, and thinking of creating a backend for user auth and storing player balances in Django.
+
+Thoughts: Coming back to React was a bit of doozy, with a shift in emphasis personally onto CSS. The blackjack logic is all built out, so I want to learn how to style my game better. I've began to implement Bootstrap styling and testing out different styling libraries like Animate.css and Material UI.
+
+Day 23: Feb 28, 2022
+
+Today's Progress:
+6kyu: Count the number of Duplicates
+Write a function that will return the count of distinct case-insensitive alphabetic characters and numeric digits that occur more than once in the input string. The input string can be assumed to contain only alphabets (both uppercase and lowercase) and numeric digits.
+
+Thoughts: Code in 228sketchpad.js
+Was able to figure out that I needed to turn the input into all lowercase, but then I tried to push each letter of the input into an array. I was unable to get my counter to work correctly, but after some research, I pushed each part of the string into an object as a key, and attached it to its specific counter. Once the loop ran through, I was able to see which keys were greater than one and attached a counter to that.
+
 ####################################################################################
 TO DOS
 For BYOB:
@@ -219,4 +234,15 @@ Refactor Project 2 with cleaner CSS and implement game GOATs (check with instruc
 Refactor Project 3 with Django backend with user auth and cleaner CSS (check with instructor feedback)
 
 Passion Projects - Army PT app, NBA props calculator
+Read through Python textbook
+Review topics in Cracking the Coding Interview
 AWS Certification
+
+Blackjack
+
+Create backend with cards, user auth, AWS images
+cards - all cards
+cards/suit - all cards of suit
+cards/suit/number - specific card
+
+API call to grab each hand
