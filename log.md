@@ -217,7 +217,10 @@ Created Github profile ReadMe
 Thoughts: Code in 228sketchpad.js
 Was able to figure out that I needed to turn the input into all lowercase, but then I tried to push each letter of the input into an array. I was unable to get my counter to work correctly, but after some research, I pushed each part of the string into an object as a key, and attached it to its specific counter. Once the loop ran through, I was able to see which keys were greater than one and attached a counter to that.
 
+Day 24: Mar 1, 2022
 
+Today's Progress: 
+Thoughts: 
 
 ####################################################################################
 TO DOS
