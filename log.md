@@ -219,8 +219,13 @@ Was able to figure out that I needed to turn the input into all lowercase, but t
 
 Day 24: Mar 1, 2022
 
-Today's Progress: 
-Thoughts: 
+Today's Progress: Completed 2 Code Wars, built out front end for ACFT and able to display individual cadets
+Thoughts: Back end is proving tough to store an ArrayField with Date
+
+Day 25: Mar 2, 2022
+
+Today's Progress: Started on a code wars converting Roman numerals to integers. Completed one Hackerrank challenge. Going to start going through Hackerrank from here on out, as companies seem to utilize that and Leetcode more. Recieved frontend challenge for Affirm and will complete on Friday.
+Thoughts: Initial thoughts were to populate an object with keys and values relating to Roman numerals then parsing through logic to calculate preceding numerals.
 
 ####################################################################################
 TO DOS
