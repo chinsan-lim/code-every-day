@@ -227,6 +227,11 @@ Day 25: Mar 2, 2022
 Today's Progress: Started on a code wars converting Roman numerals to integers. Completed one Hackerrank challenge. Going to start going through Hackerrank from here on out, as companies seem to utilize that and Leetcode more. Recieved frontend challenge for Affirm and will complete on Friday.
 Thoughts: Initial thoughts were to populate an object with keys and values relating to Roman numerals then parsing through logic to calculate preceding numerals.
 
+Day 26: Mar 3, 2022
+
+Today's Progress: Udemy Javascript Algorithms and Data Structures Course - Analyzing performance of arrays and objects, problem solving approaches and patterns, Sliding window pattern, Divide and conquer
+Thoughts: Covered Frequency Counter and Multiple Patterns - multiple patterns was very useful to see how to parse through an array from both ends. Sliding window algo helped me understand a more efficient way to compare a combination of values in an array. Divide and conquer was a simplified version of a binary tree, but seeing it visually makes it easier to understand and derive.
+
 ####################################################################################
 TO DOS
 For BYOB:

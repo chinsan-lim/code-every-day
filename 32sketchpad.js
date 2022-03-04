@@ -16,10 +16,10 @@ function solution(roman) {
 
 	let converted = roman.split('');
 	converted.map((val) => {
-		console.log(values.val);
+		dec += values[val];
 	});
 
-	return dec;
+	return console.log(dec);
 }
 
 solution('XXI'); // should return 21
