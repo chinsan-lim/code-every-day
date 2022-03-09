@@ -232,6 +232,26 @@ Day 26: Mar 3, 2022
 Today's Progress: Udemy Javascript Algorithms and Data Structures Course - Analyzing performance of arrays and objects, problem solving approaches and patterns, Sliding window pattern, Divide and conquer
 Thoughts: Covered Frequency Counter and Multiple Patterns - multiple patterns was very useful to see how to parse through an array from both ends. Sliding window algo helped me understand a more efficient way to compare a combination of values in an array. Divide and conquer was a simplified version of a binary tree, but seeing it visually makes it easier to understand and derive.
 
+Day 27: March 4, 2022
+
+Today's Progress: Worked on Kayak code challenge
+Thoughts: Scaffolded out site layout
+
+Day 28-29: March 5-6, 2022
+
+Today's Progress: Disc Golf Tournament @ Bridge of the Gods
+
+Day 30: March 7, 2022
+
+Today's Progress: Continued Kayak cc
+Thoughts: Ran into errors while pulling data from API (CORS error)
+
+Day 31: March 8, 2022
+
+Today's Progress: Built out brochure for DoubleMint disc tourney and Squarespace info site for potential sponsors.
+
+Day 32: March 9, 2022
+
 ####################################################################################
 TO DOS
 For BYOB:
